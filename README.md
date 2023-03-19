@@ -20,7 +20,7 @@
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m @Praweshkafle
 - 👀 I’m interested in .Net Technologies
-- 🌱 I’m currently working on my project #haatbazar
+- 🌱 I’m currently working on my project
 - 📫 How to reach me Praweshkafle12@gmail.com
 - ✉ https://www.praweshkafle.com.np
 
